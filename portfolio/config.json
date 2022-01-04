@@ -3,8 +3,14 @@
   "description": "Software Enginner",
   "logo": "/upload/fc_logo.png",
   "footer": "Ⓒ Furqon Creative",
-  "favicon": "favicon-32x32.png",
+  "favicon": "/upload/fc_logo.png",
   "navigation": [
+    {
+      "text": "",
+      "link": "",
+      "external": false,
+      "position": ""
+    },
     {
       "text": "Works",
       "link": "/",
